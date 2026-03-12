@@ -13,6 +13,7 @@ This folder contains the exact bundle requested by the instructor:
 - `GENERATED_SOURCE_CODE.md`
 - `TEST_CASES.md`
 - `ADEQUACY_ASSESSMENT.md`
+- `COMPLEXITY_AND_RISK_ASSESSMENT.md`
 - `generated/` (source and test files)
 - `evidence/` (analyzer and Maven outputs)
 
