@@ -1,0 +1,5 @@
+target/
+.idea/
+*.iml
+LKW-DFT.txt
+workshop-LKW.txt
