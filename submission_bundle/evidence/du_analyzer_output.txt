@@ -1,0 +1,9 @@
+﻿DU analysis for: analysis/agent_generated_code.py
+Terminating definitions detected:
+  - target_velocity: def@3 killed by def@7
+  - margin: def@2 killed by def@9
+  - target_velocity: def@7 killed by def@10
+  - margin: def@9 killed by def@12
+  - speed_cap: def@4 killed by def@13
+  - target_velocity: def@10 killed by def@14
+All tracked definitions reached at least one use.
